@@ -1,6 +1,4 @@
-*{
-  transition: 0.5s;
-}
+
 
 body {
   margin: 0;
@@ -39,6 +37,7 @@ body {
   color: #FF9F1C;
   text-align: center;
   font-family: 'baloo';
+  text-shadow: 1px 1px 5px black;
   min-height: 100px;
 }
 
